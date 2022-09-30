@@ -8,3 +8,4 @@ for c in s:
   map[c] += 1
 
 print(f"{map['A']} {map['C']} {map['G']} {map['T']}")
+
